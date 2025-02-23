@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pradhu007
+- 👋 Hi, I’m @nextk
 - 👀 I’m interested in exploit development, offensive security, reverse engineering and programming in general
 - 🌱 I’m currently learning my above interests ahhaha 
 - 📫 How to reach me 
